@@ -26,7 +26,10 @@ print(type(n3))
 str = "12"
 print(n1 + int(str))
 
-# Expotente
+# Expoente
 num1 = 10
 num2 = 3
 print(num1 ** num2)
+
+# Divisão arredondada para int
+print(num1 // num2)
