@@ -25,3 +25,8 @@ print(type(n3))
 # Cast de string para int
 str = "12"
 print(n1 + int(str))
+
+# Expotente
+num1 = 10
+num2 = 3
+print(num1 ** num2)
